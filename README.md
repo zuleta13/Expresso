@@ -1,5 +1,9 @@
 # Expresso
 
+## SQLITE3
+
+For this proyect to run properly, i had to remove the sqlite3 line from "dependencies" in the file package.json and then run the command "npm install sqlite3" on git bash.
+
 ## Project Overview
 
 In this capstone project, you will build all of the routing and database logic for an internal tool for a coffee shop called Expresso.
